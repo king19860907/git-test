@@ -2,5 +2,6 @@
  add a new line
  master line
  add branch1 line
-master line 2
+ add master line2
+ add master line3
 master line 4
