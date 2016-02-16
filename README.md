@@ -4,3 +4,4 @@
  add branch1 line
  add master line2
  add master line3
+master line 4
